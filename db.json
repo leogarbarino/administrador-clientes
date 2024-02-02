@@ -1,0 +1,64 @@
+{
+  "clientes": [
+    {
+      "nombre": " Karen ",
+      "empresa": "Rithual",
+      "email": "karenlp@hotmail.com",
+      "telefono": "138198313",
+      "notas": "El cliente renueva servicio",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "nombre": "Josue",
+      "telefono": 31983913,
+      "email": "josue@hotmail.com",
+      "empresa": "GreenPark SA"
+    },
+    {
+      "id": "4",
+      "nombre": "Miguel",
+      "telefono": 319381983,
+      "email": "miguel@hotmail.com",
+      "empresa": "Sudilist LTDA"
+    },
+    {
+      "id": "5",
+      "nombre": "Pedro",
+      "telefono": 1398198938,
+      "email": "pedro@hotmail.com",
+      "empresa": "Dumper SA"
+    },
+    {
+      "id": "6",
+      "nombre": "Leonardo",
+      "telefono": 1398198938,
+      "email": "leo@hotmail.com",
+      "empresa": "Garbarinos Asociados LTDA"
+    },
+    {
+      "id": "3812",
+      "nombre": "Delfina ",
+      "empresa": "Globant",
+      "email": "delfina@hotmail.com",
+      "telefono": "21546666933",
+      "notas": "El cliente desea servicio de ecommerce"
+    },
+    {
+      "id": "6646",
+      "nombre": "Julio",
+      "empresa": "Luhan SA",
+      "email": "luhan@hotmail.com",
+      "telefono": "1526332565",
+      "notas": "El cliente contrata servicio parcial"
+    },
+    {
+      "id": "3c4b",
+      "nombre": "Luciana",
+      "empresa": "Menihis LTDA",
+      "email": "menihis@hotmail.com",
+      "telefono": "1256315997",
+      "notas": "El cliente contrata servicio full"
+    }
+  ]
+}
